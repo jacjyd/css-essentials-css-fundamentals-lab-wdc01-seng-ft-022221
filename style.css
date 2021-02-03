@@ -30,6 +30,7 @@ figcaption {
 }
 
 #featured-property{
+  display:block;
   margin: auto;
 }
 
